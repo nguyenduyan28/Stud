@@ -3,7 +3,6 @@
 Stud is an online classroom and meeting platform built with **Django**.  
 Users can register/login, activate accounts via email, manage profiles, create/join rooms (Your Room), and upload images.
 
-> **Demo**: [Website (Vercel)](https://22-clc-08-group09-stud-8nb7wy6z3-nguyenduyan28s-projects.vercel.app/)
 
 ## ✨ Key Features
 
